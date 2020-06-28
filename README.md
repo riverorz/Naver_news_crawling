@@ -24,7 +24,7 @@
 
 최신순, 오래된순으로 검색을 진행 했을때는 정확한 검색량을 제공한다.(테스트 결과 관련도순으로 검색한 량은 최신순, 오래된순 기사결과량 이랑 같았다.)
 
-<a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/6.PNG" width = "400px" alt="naver search"></p></a>
+<a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/6.png" width = "400px" alt="naver search"></p></a>
 
 
 
