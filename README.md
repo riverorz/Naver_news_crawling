@@ -28,7 +28,9 @@
 <a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/6.png" width = "600px" alt="naver search"></p></a>
 
 이 프로그램은 위 사진처럼 네이버 뉴스라는 버튼이 있는 기사만 수집을 한다.
+
 장점 : 간편하게 기사를 수집
+
 단점 : 많은 양의 기사 수집 X
 
 프로그램 전개도
