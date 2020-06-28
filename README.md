@@ -1,4 +1,4 @@
-## Naver_News_Webcrawling
+## Naver_News_Web Crawling
 현재 네이버에서 네이버 뉴스 제공할 때 최상의 검색 결과 품질을 위해 뉴스 검색 결과를 4,000건까지만 제공을 해주고 있다.
 
 <a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/1.PNG" width = "600px" alt="naver search"></p></a>
