@@ -11,7 +11,7 @@
 
 
 
-<a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/2.PNG" width = "400px" alt="naver search"></p></a>
+<a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/images/2.PNG" width = "400px" alt="naver search"></p></a>
 <a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/3.PNG" width = "400px" alt="naver search"></p></a>
 
 위 사진을 보면 같은 토픽이지만 페이지가 넘어가면 검색 결과가 다르다는 걸 알 수 있다.(크롤링 방지를 위해서 그러는 건지는 모르겠음)
