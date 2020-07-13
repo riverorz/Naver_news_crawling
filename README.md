@@ -1,7 +1,7 @@
 ## Naver_News_Web Crawling
 현재 네이버에서 네이버 뉴스 제공할 때 최상의 검색 결과 품질을 위해 뉴스 검색 결과를 4,000건까지만 제공을 해주고 있다.
 
-<a href="#"><p align="center"><img src= "https://github.com/riverorz/webcrawling/blob/master/Navern_News%20Crawling/images/1.PNG" width = "600px" alt="naver search"></p></a>
+<a href="#"><p align="center"><img src= "https://github.com/riverorz/Naver_news_crawling/tree/master/images/1.PNG" width = "600px" alt="naver search"></p></a>
 
 크롤링 진행 시에 검색 결과가 4000건 이상이어도 수집할 수 있는 데이터는 4000건이 한계이다.( 계속 수집하면 400페이지 내용을 계속 수집)
 
